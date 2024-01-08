@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+}
+
+.outer{    height:400px;
+    width:600px;
+    background-color: aquamarine;
+    border: 30px solid navy;
+    margin:40px;
+    padding:40px;
+   font-family: 'Courier New', Courier, monospace;
+
+   font-weight: bold ;
+   font-size: 200%;
+  
+   outline:10px solid red;
+   outline-offset:5px;
+
+   
+
+}
+.di{
+    height: 400px;
+    width: 300px;
+    background-color: coral;
+    float:left;
+
+    box-sizing: border-box;
+}
+.ri{
+
+ height: 400px;
+    width: 300px;
+    background-color: rgb(106, 80, 255);
+    float:right;
+    box-sizing: border-box;
+
+}
+.div3{
+    height:400px;
+    width:200px;
+    background-color: blueviolet;
+    float:left;
+}
+.d1{
+    height:200px;
+    width:200px;
+    background-color: rgb(194, 173, 214);
+    float:left;
+    border:10px solid burlywood;
+    padding:20px;
+    box-sizing:border-box;
+
+}
+.d2{
+    height:200px;
+    width:200px;
+    background-color: rgb(101, 43, 226);
+    float:right;
+    border:10px solid rgb(240, 142, 14);
+    padding:20px;
+    box-sizing:border-box;
+}
+
+.div4{
+    
+    height:400px;
+    width:100px;
+    background-color: rgb(226, 214, 43);
+    float:right;
+
+}
+.div1{
+    height:200px;
+    width:300px;
+    background-color: rgb(226, 43, 186);
+
+}
+.div2{
+    height:200px;
+    width:300px;
+    background-color: rgb(73, 43, 226);
+}
